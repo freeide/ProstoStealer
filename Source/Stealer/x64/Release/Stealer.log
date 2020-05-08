@@ -1,0 +1,184 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Platforms\x64\PlatformToolsets\v141_xp\Toolset.targets(39,5): warning MSB8051: поддержка Windows XP прекращена, ее не будет в последующих выпусках Visual Studio. Дополнительные сведения: https://go.microsoft.com/fwlink/?linkid=2023588.
+  CNC.cpp
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\objbase.h(239): error C2760: синтаксическая ошибка: ожидался токен "спецификатор типа", а не "идентификатор"
+c:\soft\black\stealer\cnc.cpp(20): warning C4244: инициализация: преобразование "SIZE_T" в "UINT", возможна потеря данных
+c:\soft\black\stealer\cnc.cpp(47): warning C4244: аргумент: преобразование "SIZE_T" в "int", возможна потеря данных
+c:\soft\black\stealer\cnc.cpp(76): warning C4244: аргумент: преобразование "SIZE_T" в "int", возможна потеря данных
+c:\soft\black\stealer\cnc.cpp(111): warning C4244: аргумент: преобразование "SIZE_T" в "int", возможна потеря данных
+  Cred.cpp
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\objbase.h(239): error C2760: синтаксическая ошибка: ожидался токен "спецификатор типа", а не "идентификатор"
+  crypt.cpp
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\objbase.h(239): error C2760: синтаксическая ошибка: ожидался токен "спецификатор типа", а не "идентификатор"
+c:\soft\black\stealer\crypt.cpp(126): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+c:\soft\black\stealer\crypt.cpp(128): error C2065: mov: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(128): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "esi"
+c:\soft\black\stealer\crypt.cpp(128): error C2065: esi: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(129): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+c:\soft\black\stealer\crypt.cpp(129): error C2065: mov: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(129): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+c:\soft\black\stealer\crypt.cpp(129): error C2065: eax: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(130): error C2065: ecx: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(132): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "cpuid"
+c:\soft\black\stealer\crypt.cpp(131): error C2065: cpuid: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(132): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+c:\soft\black\stealer\crypt.cpp(132): error C2065: mov: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(132): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "dword"
+c:\soft\black\stealer\crypt.cpp(132): error C2065: dword: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(132): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ptr"
+c:\soft\black\stealer\crypt.cpp(132): error C2065: ptr: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(132): error C2065: esi: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(132): error C2065: eax: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(133): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+c:\soft\black\stealer\crypt.cpp(133): error C2065: mov: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(133): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "dword"
+c:\soft\black\stealer\crypt.cpp(133): error C2065: dword: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(133): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ptr"
+c:\soft\black\stealer\crypt.cpp(133): error C2065: ptr: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(133): error C2065: esi: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(133): error C2065: ebx: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(134): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+c:\soft\black\stealer\crypt.cpp(134): error C2065: mov: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(134): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "dword"
+c:\soft\black\stealer\crypt.cpp(134): error C2065: dword: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(134): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ptr"
+c:\soft\black\stealer\crypt.cpp(134): error C2065: ptr: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(134): error C2065: esi: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(134): error C2065: ecx: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(135): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+c:\soft\black\stealer\crypt.cpp(135): error C2065: mov: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(135): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "dword"
+c:\soft\black\stealer\crypt.cpp(135): error C2065: dword: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(135): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ptr"
+c:\soft\black\stealer\crypt.cpp(135): error C2065: ptr: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(135): error C2065: esi: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(135): error C2065: edx: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(136): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+c:\soft\black\stealer\crypt.cpp(144): error C2664: "void __cpuid(uint32_t [],int)": невозможно преобразовать аргумент 1 из "int [4]" в "uint32_t []"
+  c:\soft\black\stealer\crypt.cpp(144): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\soft\black\stealer\crypt.cpp(145): error C2065: IP_ADAPTER_INFO: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(145): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "AdapterInfo"
+c:\soft\black\stealer\crypt.cpp(145): error C2065: AdapterInfo: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(146): error C2065: AdapterInfo: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(147): error C2065: AdapterInfo: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(147): error C3861: GetAdaptersInfo: идентификатор не найден
+c:\soft\black\stealer\crypt.cpp(148): error C2065: PIP_ADAPTER_INFO: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(148): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "pAdapterInfo"
+c:\soft\black\stealer\crypt.cpp(148): error C2065: pAdapterInfo: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(148): error C2065: AdapterInfo: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(151): error C2065: pAdapterInfo: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(152): error C2065: pAdapterInfo: необъявленный идентификатор
+c:\soft\black\stealer\crypt.cpp(153): error C2065: pAdapterInfo: необъявленный идентификатор
+  Export.cpp
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\objbase.h(239): error C2760: синтаксическая ошибка: ожидался токен "спецификатор типа", а не "идентификатор"
+c:\soft\black\stealer\export.cpp(21): warning C4244: =: преобразование "SIZE_T" в "DWORD", возможна потеря данных
+c:\soft\black\stealer\export.cpp(141): warning C4244: аргумент: преобразование "SIZE_T" в "int", возможна потеря данных
+  Fncs.cpp
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\objbase.h(239): error C2760: синтаксическая ошибка: ожидался токен "спецификатор типа", а не "идентификатор"
+c:\soft\black\stealer\fncs.cpp(127): error C2664: "BOOL CreateProcessW(LPCWSTR,LPWSTR,LPSECURITY_ATTRIBUTES,LPSECURITY_ATTRIBUTES,BOOL,DWORD,LPVOID,LPCWSTR,LPSTARTUPINFOW,LPPROCESS_INFORMATION)": невозможно преобразовать аргумент 9 из "STARTUPINFO *" в "LPSTARTUPINFOW"
+  c:\soft\black\stealer\fncs.cpp(127): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\soft\black\stealer\fncs.cpp(272): warning C4334: <<: результат 32-разрядного смещения неявно преобразуется в 64-разрядное значение (предполагалось 64-разрядное смещение?)
+c:\soft\black\stealer\fncs.cpp(390): error C2664: "int lstrcmpW(LPCWSTR,LPCWSTR)": невозможно преобразовать аргумент 2 из "PSTR" в "LPCWSTR"
+  c:\soft\black\stealer\fncs.cpp(390): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+  Ldr.cpp
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\objbase.h(239): error C2760: синтаксическая ошибка: ожидался токен "спецификатор типа", а не "идентификатор"
+  mem.cpp
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\objbase.h(239): error C2760: синтаксическая ошибка: ожидался токен "спецификатор типа", а не "идентификатор"
+  Parse.cpp
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\objbase.h(239): error C2760: синтаксическая ошибка: ожидался токен "спецификатор типа", а не "идентификатор"
+c:\soft\black\stealer\parse.cpp(11): error C2664: "BOOL GetFileAttributesExA(LPCSTR,GET_FILEEX_INFO_LEVELS,LPVOID)": невозможно преобразовать аргумент 1 из "const wchar_t *" в "LPCSTR"
+  c:\soft\black\stealer\parse.cpp(11): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\soft\black\stealer\parse.cpp(44): error C2665: ZipAdd: ни одна из 2 перегрузок не может преобразовать все типы аргументов
+  c:\soft\black\stealer\zip.h(56): note: может быть "ZRESULT ZipAdd(HZIP,const TCHAR *,const TCHAR *)"
+  c:\soft\black\stealer\parse.cpp(44): note: при попытке сопоставить список аргументов "(HZIP, WCHAR *, WCHAR *)"
+c:\soft\black\stealer\parse.cpp(46): error C2665: ZipAdd: ни одна из 2 перегрузок не может преобразовать все типы аргументов
+  c:\soft\black\stealer\zip.h(56): note: может быть "ZRESULT ZipAdd(HZIP,const TCHAR *,const TCHAR *)"
+  c:\soft\black\stealer\parse.cpp(46): note: при попытке сопоставить список аргументов "(HZIP, WCHAR *, WCHAR *)"
+c:\soft\black\stealer\parse.cpp(56): error C2665: ZipAdd: ни одна из 2 перегрузок не может преобразовать все типы аргументов
+  c:\soft\black\stealer\zip.h(56): note: может быть "ZRESULT ZipAdd(HZIP,const TCHAR *,const TCHAR *)"
+  c:\soft\black\stealer\parse.cpp(56): note: при попытке сопоставить список аргументов "(HZIP, WCHAR *, WCHAR *)"
+  Search.cpp
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\objbase.h(239): error C2760: синтаксическая ошибка: ожидался токен "спецификатор типа", а не "идентификатор"
+  Source.cpp
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\objbase.h(239): error C2760: синтаксическая ошибка: ожидался токен "спецификатор типа", а не "идентификатор"
+c:\soft\black\stealer\source.cpp(51): error C2665: ZipAdd: ни одна из 2 перегрузок не может преобразовать все типы аргументов
+  c:\soft\black\stealer\zip.h(57): note: может быть "ZRESULT ZipAdd(HZIP,const TCHAR *,void *,unsigned int)"
+  c:\soft\black\stealer\source.cpp(51): note: при попытке сопоставить список аргументов "(HZIP, WCHAR *, CHAR *, SIZE_T)"
+c:\soft\black\stealer\source.cpp(93): error C2665: ZipAdd: ни одна из 2 перегрузок не может преобразовать все типы аргументов
+  c:\soft\black\stealer\zip.h(57): note: может быть "ZRESULT ZipAdd(HZIP,const TCHAR *,void *,unsigned int)"
+  c:\soft\black\stealer\source.cpp(93): note: при попытке сопоставить список аргументов "(HZIP, WCHAR *, CHAR *, SIZE_T)"
+c:\soft\black\stealer\source.cpp(118): error C2665: ZipAdd: ни одна из 2 перегрузок не может преобразовать все типы аргументов
+  c:\soft\black\stealer\zip.h(57): note: может быть "ZRESULT ZipAdd(HZIP,const TCHAR *,void *,unsigned int)"
+  c:\soft\black\stealer\source.cpp(118): note: при попытке сопоставить список аргументов "(HZIP, WCHAR *, CHAR *, SIZE_T)"
+c:\soft\black\stealer\source.cpp(157): error C2665: ZipAdd: ни одна из 2 перегрузок не может преобразовать все типы аргументов
+  c:\soft\black\stealer\zip.h(57): note: может быть "ZRESULT ZipAdd(HZIP,const TCHAR *,void *,unsigned int)"
+  c:\soft\black\stealer\source.cpp(157): note: при попытке сопоставить список аргументов "(HZIP, WCHAR *, CHAR *, SIZE_T)"
+c:\soft\black\stealer\source.cpp(197): error C2665: ZipAdd: ни одна из 2 перегрузок не может преобразовать все типы аргументов
+  c:\soft\black\stealer\zip.h(57): note: может быть "ZRESULT ZipAdd(HZIP,const TCHAR *,void *,unsigned int)"
+  c:\soft\black\stealer\source.cpp(197): note: при попытке сопоставить список аргументов "(HZIP, WCHAR *, CHAR *, SIZE_T)"
+c:\soft\black\stealer\source.cpp(275): error C2665: ZipAdd: ни одна из 2 перегрузок не может преобразовать все типы аргументов
+  c:\soft\black\stealer\zip.h(56): note: может быть "ZRESULT ZipAdd(HZIP,const TCHAR *,const TCHAR *)"
+  c:\soft\black\stealer\source.cpp(275): note: при попытке сопоставить список аргументов "(HZIP, const wchar_t [18], LPCWSTR)"
+c:\soft\black\stealer\source.cpp(284): error C2665: ZipAdd: ни одна из 2 перегрузок не может преобразовать все типы аргументов
+  c:\soft\black\stealer\zip.h(56): note: может быть "ZRESULT ZipAdd(HZIP,const TCHAR *,const TCHAR *)"
+  c:\soft\black\stealer\source.cpp(284): note: при попытке сопоставить список аргументов "(HZIP, const wchar_t [15], LPCWSTR)"
+c:\soft\black\stealer\source.cpp(293): error C2665: ZipAdd: ни одна из 2 перегрузок не может преобразовать все типы аргументов
+  c:\soft\black\stealer\zip.h(56): note: может быть "ZRESULT ZipAdd(HZIP,const TCHAR *,const TCHAR *)"
+  c:\soft\black\stealer\source.cpp(293): note: при попытке сопоставить список аргументов "(HZIP, const wchar_t [16], LPCWSTR)"
+c:\soft\black\stealer\source.cpp(305): warning C4018: <: несоответствие типов со знаком и без знака
+c:\soft\black\stealer\source.cpp(330): error C2665: ZipAdd: ни одна из 2 перегрузок не может преобразовать все типы аргументов
+  c:\soft\black\stealer\zip.h(57): note: может быть "ZRESULT ZipAdd(HZIP,const TCHAR *,void *,unsigned int)"
+  c:\soft\black\stealer\source.cpp(330): note: при попытке сопоставить список аргументов "(HZIP, const wchar_t [12], CHAR *, int)"
+c:\soft\black\stealer\source.cpp(339): error C2665: ZipAdd: ни одна из 2 перегрузок не может преобразовать все типы аргументов
+  c:\soft\black\stealer\zip.h(56): note: может быть "ZRESULT ZipAdd(HZIP,const TCHAR *,const TCHAR *)"
+  c:\soft\black\stealer\source.cpp(339): note: при попытке сопоставить список аргументов "(HZIP, const wchar_t [11], WCHAR *)"
+c:\soft\black\stealer\source.cpp(348): error C2665: ZipAdd: ни одна из 2 перегрузок не может преобразовать все типы аргументов
+  c:\soft\black\stealer\zip.h(56): note: может быть "ZRESULT ZipAdd(HZIP,const TCHAR *,const TCHAR *)"
+  c:\soft\black\stealer\source.cpp(348): note: при попытке сопоставить список аргументов "(HZIP, const wchar_t [15], WCHAR *)"
+c:\soft\black\stealer\source.cpp(374): error C2665: ZipAdd: ни одна из 2 перегрузок не может преобразовать все типы аргументов
+  c:\soft\black\stealer\zip.h(57): note: может быть "ZRESULT ZipAdd(HZIP,const TCHAR *,void *,unsigned int)"
+  c:\soft\black\stealer\source.cpp(374): note: при попытке сопоставить список аргументов "(HZIP, const wchar_t [11], WCHAR *, size_t)"
+c:\soft\black\stealer\source.cpp(415): warning C4244: аргумент: преобразование "SIZE_T" в "double", возможна потеря данных
+c:\soft\black\stealer\source.cpp(416): warning C4244: аргумент: преобразование "SIZE_T" в "double", возможна потеря данных
+c:\soft\black\stealer\source.cpp(417): warning C4244: аргумент: преобразование "SIZE_T" в "double", возможна потеря данных
+c:\soft\black\stealer\source.cpp(418): warning C4244: аргумент: преобразование "SIZE_T" в "double", возможна потеря данных
+c:\soft\black\stealer\source.cpp(419): warning C4244: аргумент: преобразование "SIZE_T" в "double", возможна потеря данных
+c:\soft\black\stealer\source.cpp(420): warning C4244: аргумент: преобразование "SIZE_T" в "double", возможна потеря данных
+c:\soft\black\stealer\source.cpp(421): warning C4244: аргумент: преобразование "SIZE_T" в "double", возможна потеря данных
+c:\soft\black\stealer\source.cpp(422): warning C4244: аргумент: преобразование "SIZE_T" в "double", возможна потеря данных
+c:\soft\black\stealer\source.cpp(423): warning C4244: аргумент: преобразование "SIZE_T" в "double", возможна потеря данных
+c:\soft\black\stealer\source.cpp(424): warning C4244: аргумент: преобразование "SIZE_T" в "double", возможна потеря данных
+c:\soft\black\stealer\source.cpp(425): warning C4244: аргумент: преобразование "SIZE_T" в "double", возможна потеря данных
+c:\soft\black\stealer\source.cpp(426): warning C4244: аргумент: преобразование "SIZE_T" в "double", возможна потеря данных
+c:\soft\black\stealer\source.cpp(427): warning C4244: аргумент: преобразование "SIZE_T" в "double", возможна потеря данных
+c:\soft\black\stealer\source.cpp(428): warning C4244: аргумент: преобразование "SIZE_T" в "double", возможна потеря данных
+c:\soft\black\stealer\source.cpp(430): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\soft\black\stealer\source.cpp(433): error C2664: "void sendLogsToCNC(WCHAR *,CHAR *,SIZE_T)": невозможно преобразовать аргумент 1 из "const wchar_t [10]" в "WCHAR *"
+  c:\soft\black\stealer\source.cpp(433): note: При преобразовании из строкового литерала теряется квалификатор (см. /Zc:strictStrings)
+  Telegram.cpp
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\objbase.h(239): error C2760: синтаксическая ошибка: ожидался токен "спецификатор типа", а не "идентификатор"
+c:\soft\black\stealer\telegram.cpp(25): error C2665: ZipAdd: ни одна из 2 перегрузок не может преобразовать все типы аргументов
+  c:\soft\black\stealer\zip.h(56): note: может быть "ZRESULT ZipAdd(HZIP,const TCHAR *,const TCHAR *)"
+  c:\soft\black\stealer\telegram.cpp(25): note: при попытке сопоставить список аргументов "(HZIP, WCHAR *, WCHAR *)"
+c:\soft\black\stealer\telegram.cpp(53): error C2664: "ZRESULT ZipAddFolder(HZIP,const TCHAR *)": невозможно преобразовать аргумент 2 из "WCHAR *" в "const TCHAR *"
+  c:\soft\black\stealer\telegram.cpp(53): note: Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\soft\black\stealer\telegram.cpp(65): error C2665: ZipAdd: ни одна из 2 перегрузок не может преобразовать все типы аргументов
+  c:\soft\black\stealer\zip.h(56): note: может быть "ZRESULT ZipAdd(HZIP,const TCHAR *,const TCHAR *)"
+  c:\soft\black\stealer\telegram.cpp(65): note: при попытке сопоставить список аргументов "(HZIP, WCHAR *, WCHAR *)"
+  vector.cpp
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\objbase.h(239): error C2760: синтаксическая ошибка: ожидался токен "спецификатор типа", а не "идентификатор"
+  zip.cpp
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\objbase.h(239): error C2760: синтаксическая ошибка: ожидался токен "спецификатор типа", а не "идентификатор"
+c:\soft\black\stealer\zip.cpp(2165): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+c:\soft\black\stealer\zip.cpp(2498): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+c:\soft\black\stealer\zip.cpp(2519): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+c:\soft\black\stealer\zip.cpp(2523): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+c:\soft\black\stealer\zip.cpp(2527): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
+c:\soft\black\stealer\zip.cpp(2586): warning C4311: приведение типов: усечение указателя из "HWND" в "unsigned long"
+c:\soft\black\stealer\zip.cpp(2586): warning C4302: приведение типов: усечение из "HWND" к "unsigned long"
+c:\soft\black\stealer\zip.cpp(2702): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(340): note:  см. объявление "strncpy"

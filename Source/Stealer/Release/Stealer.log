@@ -1,0 +1,24 @@
+﻿cl : командная строка warning D9025: переопределение "/sdl" на "/GS-"
+  CNC.cpp
+  Export.cpp
+c:\soft\black\stealer\export.cpp(132): warning C4018: <: несоответствие типов со знаком и без знака
+c:\soft\black\stealer\export.cpp(139): warning C4018: <: несоответствие типов со знаком и без знака
+  Fncs.cpp
+c:\soft\black\stealer\fncs.cpp(64): warning C4018: <: несоответствие типов со знаком и без знака
+c:\soft\black\stealer\fncs.cpp(138): warning C4101: si: неиспользованная локальная переменная
+  Ldr.cpp
+c:\soft\black\stealer\ldr.cpp(33): warning C4101: bResult: неиспользованная локальная переменная
+c:\soft\black\stealer\ldr.cpp(156): warning C4018: <: несоответствие типов со знаком и без знака
+  Source.cpp
+c:\soft\black\stealer\source.cpp(307): warning C4018: <: несоответствие типов со знаком и без знака
+c:\soft\black\stealer\source.cpp(383): warning C4101: dw: неиспользованная локальная переменная
+c:\soft\black\stealer\source.cpp(446): warning C4007: WinMain: должен быть "__stdcall"
+c:\soft\black\stealer\source.cpp(447): warning C4101: dw: неиспользованная локальная переменная
+  Telegram.cpp
+     Создается библиотека C:\SOFT\Black\Release\Stealer.lib и объект C:\SOFT\Black\Release\Stealer.exp
+  Создание кода
+  5 of 1897 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Stealer.vcxproj -> C:\SOFT\Black\Release\Stealer.exe

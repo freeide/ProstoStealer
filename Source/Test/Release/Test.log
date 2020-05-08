@@ -1,0 +1,8 @@
+﻿cl : командная строка warning D9025: переопределение "/sdl" на "/GS-"
+  Source.cpp
+  Создание кода
+  10 of 10 functions (100.0%) were compiled.
+    10 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Test.vcxproj -> C:\SOFT\Black\Release\Test.exe
